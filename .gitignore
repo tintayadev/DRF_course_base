@@ -1,5 +1,6 @@
 staticfiles/
 mediafiles/
+steps/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -148,4 +149,3 @@ cython_debug/
 
 *.dump
 
-/steps
